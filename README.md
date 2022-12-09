@@ -1,5 +1,5 @@
 # Background
-This project is meant an interview task for programmers who are applying for a position in Cognizant.
+This project is meant an interview task for programmers who are applying for a developer position.
 
 # Task
 The idea is to create a simple batch processor. Your program receives a bunch of PDF and XML files. Within the given XML files, you're supposed to find the receivers for PDF files and move them accordingly in the folder structure.
